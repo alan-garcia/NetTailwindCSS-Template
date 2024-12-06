@@ -1,0 +1,13 @@
+{
+  "name": "net-tailwindcss-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "css:build": "npx tailwindcss -i ./wwwroot/css/tailwind.css -o ./wwwroot/css/tailwind.output.css --watch"
+  },
+  "author": "https://github.com/alan-garcia",
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  }
+}

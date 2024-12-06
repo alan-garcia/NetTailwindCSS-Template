@@ -1,0 +1,1 @@
+{"ConfigurationFile":"tailwind.config.js","BuildFiles":[{"Input":"wwwroot\\css\\tailwind.css","Output":"wwwroot\\css\\tailwind.output.css"},{"Input":"wwwroot\\css\\main.css"}],"PackageConfigurationFile":"package.json","UseCli":false}
